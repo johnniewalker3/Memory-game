@@ -1,1 +1,2 @@
 # Memory-game
+A simple version of the classic memory game where we have replaced the squares with images with rectangles and colors.The logic remains the same where we try to match rectangles that have the same color.The game supports 3 levels.Level "easy" is on 3*4 grid."Medium" level is on 4*5 grid and hard level on 5*6  grid.For this project i have used javafx feel to take the code and to do any modifications you desire or to add whatever you want in your code.  
